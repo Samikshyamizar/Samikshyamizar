@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Machine learning projects](kaggle.com/samikshyamizar)
 
-- 📫 How to reach me **samikshyamizar@gmail.com**
+- 📫 My email address is **samikshyamizar@gmail.com**
 
 - 📄 Know about my experiences [in/samikshyamizar/](in/samikshyamizar/)
 
